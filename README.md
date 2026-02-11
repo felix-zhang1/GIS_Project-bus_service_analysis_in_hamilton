@@ -49,6 +49,13 @@ Key datasets include:
 | 400 meters      | 29,523,099                | 4,478,612                   |
 | 500 meters      | 24,446,065                | 2,390,834                   |
 
+<p align="center">
+  <img src="images/Layout_300.jpg" width="700"><br>
+  <img src="images/Layout_400.jpg" width="700"><br>
+  <img src="images/Layout_500.jpg" width="700"><br>
+  <em>Figure: Area without bus service maps for the different buffer distance scenarios.</em>
+</p>
+
 - The maps clearly show that as buffer size increases, uncovered areas shrink.
 - Red zones on the map indicate important places (like residential or schools) with no bus service—these should be prioritized for future planning.
 - Increasing buffer size improves coverage on paper, but may reduce the accuracy of identifying real gaps in high-priority areas.
